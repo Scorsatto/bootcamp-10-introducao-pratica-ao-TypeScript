@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "parcel desafio3index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
